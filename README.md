@@ -10,7 +10,7 @@ The primary goal of this assignment is to extract textual data from articles fou
 Input: Input.xlsx
 For each article listed in the Input.xlsx file, extract the article text and save it in a text file. The file should be named after the URL_ID.
 Ensure that the extraction program captures only the article title and text, excluding any website headers, footers, or extraneous content.
-Note: Utilize Python programming for URL data extraction, employing libraries such as BeautifulSoup, Selenium, Scrapy, or other preferred Python libraries for data crawling.
+Utilizing Python programming for URL data extraction, employing libraries such as BeautifulSoup, Selenium, Scrapy, or other preferred Python libraries for data crawling.
 
 ## Data Analysis
 
